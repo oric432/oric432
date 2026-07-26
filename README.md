@@ -56,8 +56,8 @@ I build software where correctness isn't optional and performance isn't negotiab
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=oric432&show_icons=true&hide_border=true&theme=dark&bg_color=0f0f0f&title_color=4a9eff&icon_color=4a9eff&text_color=8892b0&cache_seconds=1800"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oric432&layout=compact&hide_border=true&theme=dark&bg_color=0f0f0f&title_color=4a9eff&text_color=8892b0&cache_seconds=1800"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=oric432&show_icons=true&hide_border=true&theme=dark&bg_color=0f0f0f&title_color=4a9eff&icon_color=4a9eff&text_color=8892b0&cache_seconds=1800"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=oric432&layout=compact&hide_border=true&theme=dark&bg_color=0f0f0f&title_color=4a9eff&text_color=8892b0&cache_seconds=1800"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=oric432&hide_border=true&theme=dark&background=0f0f0f&ring=4a9eff&fire=4a9eff&currStreakLabel=4a9eff"/>
 
